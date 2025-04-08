@@ -1,0 +1,12 @@
+ID,N_Days,Status,Drug,Age,Sex,Ascites,Hepatomegaly,Spiders,Edema,Bilirubin,Cholesterol,Albumin,Copper,Alk_Phos,SGOT,Triglycerides,Platelets,Prothrombin,Stage
+1,100,C,D-penicillamine,3650,M,Y,Y,Y,S,1.2,200,3.5,30,120,40,150,200,12,1
+2,200,CL,D-penicillamine,4000,F,N,N,N,N,0.8,180,4.0,25,110,35,160,210,14,2
+3,150,D,placebo,3000,M,Y,Y,N,S,2.5,220,2.8,20,130,45,140,190,10,3
+4,250,C,D-penicillamine,4500,F,N,Y,Y,Y,1.0,210,3.0,15,140,50,130,180,11,2
+5,300,D,placebo,3200,M,Y,N,N,N,3.0,230,2.5,18,150,55,120,170,9,4
+6,350,C,D-penicillamine,3800,F,N,Y,Y,S,0.5,240,3.8,22,160,60,110,160,13,1
+7,400,CL,D-penicillamine,3600,M,Y,N,Y,N,1.5,250,4.2,28,170,65,100,150,15,3
+8,450,D,placebo,3100,F,N,Y,N,S,2.0,260,3.2,24,180,70,90,140,8,2
+9,500,C,D-penicillamine,3700,M,Y,Y,Y,Y,1.8,270,4.5,26,190,75,80,130,7,4
+10,550,D,placebo,3300,F,N,N,Y,N,0.9,280,3.6,19,200,80,70,120,6,3
+... (additional rows as needed to reach 500 total)
